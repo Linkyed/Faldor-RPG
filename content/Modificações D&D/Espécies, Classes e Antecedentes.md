@@ -29,14 +29,15 @@ Quase todas as classes do LDJ 2024 estão sem alterações, as únicas que sofre
 - [[Invocador]]
 - [[Ladino]]
 - [[Mago]]
+- [[Médico]]
 - [[Monge]]
 - [[Paladino]]
 - [[Ranger]]
 - [[Socialite]]
 - [[Sentinela]]
 
-# Origens
-Todas as origens do LDJ 2024 se mantiveram iguais, porem adicionei algumas novas que dão possibilidades de mais historias diferentes, sendo elas:
+# Antecedentes
+Todas os antecedentes do LDJ 2024 se mantiveram iguais, porem adicionei algumas novas que dão possibilidades de mais historias diferentes, sendo elas:
 
 - Cozinheiro
 - Cortesão
@@ -47,4 +48,4 @@ Todas as origens do LDJ 2024 se mantiveram iguais, porem adicionei algumas novas
 - Escudeiro Magico
 - Sobrevivente
 
-Todas as origens extras podem ser encontradas no seguinte PDF: [Novas Origens](https://drive.google.com/file/d/11yC0O16xce715B5ivYrHewAa-tWZf_z9/view?usp=sharing)
+Todas as origens extras podem ser encontradas no seguinte PDF: [Novos Antecedentes](https://drive.google.com/file/d/11yC0O16xce715B5ivYrHewAa-tWZf_z9/view?usp=sharing)

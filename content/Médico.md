@@ -1,0 +1,4 @@
+**Médicos** são mestres na arte da medicina, viajando pelo mundo para tratar enfermidades com ferramentas e técnicas adquiridas por meio de estudo. Sejam médicos estabelecidos ou curandeiros itinerantes, cirurgiões de campo ou até charlatães, Médicos sempre podem ser encontrados quando há necessidade de cuidados.
+
+# Informações Gerais da Classe
+As informações gerais da classe são encontrada no PDF próprio dela que pode ser acessado usando esse link: [Physician](https://drive.google.com/file/d/1yOMYOpYKfHV0-3wjsaxqVYrWJlNsYZwh/view?usp=sharing). O conteúdo esta totalmente em inglês já que foi desenvolvido por gringos, mas faz parte da historia de [[Faldor]] como qualquer outra classe.
