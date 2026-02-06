@@ -1,6 +1,8 @@
 # Sessão 0
 Sessão para introduzir a historia do mundo, falando sobre as eras do mundo e explicando cada um dos continentes e nações para os players. Após isso comentar sobre as raças e as classes do mundo que eles podem jogar.
 
+TESTA LEGAL PAPAI
+
 ### Monologo inicial
 > [[Faldor]] é um mundo onde aqueles com poder são os que escrevem as paginas dos livros de historia.
 > No passado, guerras moldaram povos e nações porem após muita morte e destruição, esse mundo aprendeu a viver em paz. Infelizmente, mesmo em paz, problemas ainda existem, alguns menores e outros maiores, onde cada um tem que dar o seu jeito de resolver a sua vida, esperando que o dia de amanhã seja melhor.
