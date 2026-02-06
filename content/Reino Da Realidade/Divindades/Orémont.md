@@ -1,0 +1,1 @@
+Divindade do Domínio das Guerra, ser que amava e vivia pelas Guerras. Se qualquer conflito de grande escala acontecer em [[Faldor]] pode ter certeza que [[Orémont]] estará apreciando o espetáculo.

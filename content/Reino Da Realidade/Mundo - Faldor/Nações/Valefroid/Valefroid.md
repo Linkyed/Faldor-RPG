@@ -1,0 +1,1 @@
+É uma das [[Nação|Nações]] de [[Faldor]] que fica no continente [[Vasteforêt]]. E uma nação conhecida pelos vales que cortam quase todo o território e por ser uma nação com vários conflitos internos. É uma [[República]] governada pelo Líder [[Basile Carré]]

@@ -1,0 +1,1 @@
+Divindade do Domínio da Ordem, ser que odeia a desordem e faz de tudo para que nada afete a ordem natural da coisas. Se algo ou alguém trabalhar para manter a ordem em [[Faldor]], [[Luméris]] vai ajudar quando puder.

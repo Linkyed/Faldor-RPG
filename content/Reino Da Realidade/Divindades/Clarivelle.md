@@ -1,0 +1,1 @@
+Divindade do Domínio da Morte, ser responsável por levar a alma daqueles que já não pertencem mais ao [[Reino da Realidade]]. Sempre que uma criatura perde sua vida, [[Clarivelle]] estará lá para guia-lo até o [[Reino da Morte]].

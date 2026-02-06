@@ -1,0 +1,1 @@
+É uma das [[Nação|Nações]] de [[Faldor]], conhecido por ser o lugar mais frio de todo o mundo, onde até mesmo os oceanos ao extremo leste são congelados. É uma [[República]] governada pela Líder [[Marie Allard]]

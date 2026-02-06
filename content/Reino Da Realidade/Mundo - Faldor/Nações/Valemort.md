@@ -1,0 +1,1 @@
+É uma das [[Nação|Nações]] de [[Faldor]], conhecida pelas florestas com arvores gigantes e seus grandes vales que se estendem por boa parte do território. É uma [[República]] governada pelo Líder [[Vivien Delannoy]] e seus conselheiros

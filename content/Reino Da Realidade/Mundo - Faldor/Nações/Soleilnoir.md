@@ -1,0 +1,1 @@
+É uma das [[Nação|Nações]] de [[Faldor]], conhecida pelas grandes montanhas no meio dos desertos de [[Désertaride]]. É uma [[República]] governada pelos Líderes [[Nicolette Périer]] e [[Félix Bruneau]].

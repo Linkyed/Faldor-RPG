@@ -1,0 +1,1 @@
+É todo o ser que tem aparência semelhante ou que mesmo lembre um humano, mas não o sendo. Ou seja, seres bípedes 

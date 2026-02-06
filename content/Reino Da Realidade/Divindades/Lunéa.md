@@ -1,0 +1,1 @@
+Divindade do Domínio da Lua, ser responsável por iluminar as noites escurar de [[Faldor]] com a luz da Lua. Sempre que a noite cai em [[Faldor]], dizem que [[Lunéa]] vigia todo o mundo impedindo que a escuridão total tome conta.

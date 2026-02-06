@@ -1,0 +1,1 @@
+É uma das [[Nação|Nações]] de [[Faldor]], conhecida pelo deserto com maior extensão do mundo chamado de [[Deserto das Areias Eternas]] e pelos rios artificiais criados por toda a sua extensão. É uma [[Monarquia]] governada pela Rainha [[Mélissa Courtet]]

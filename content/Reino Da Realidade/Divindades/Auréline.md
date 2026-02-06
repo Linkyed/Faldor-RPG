@@ -1,0 +1,1 @@
+Divindade do Domínio da Luz, ser que vive tentando subjugar a escuridão com a sua Luz. Onde há Luz, [[Auréline]] estará observando e desejando que aquela Luz nunca se apague.

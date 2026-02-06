@@ -1,0 +1,1 @@
+É uma das [[Nação|Nações]] de [[Faldor]], conhecida pelas suas gigantescas montanhas cobertas de neva, incluindo uma cordilheira muito conhecida pelo mundo, as [[Montanhas Separadas]]. É uma [[República]] governada pelo Líder [[Théodore Gounelle]] e seus conselheiros

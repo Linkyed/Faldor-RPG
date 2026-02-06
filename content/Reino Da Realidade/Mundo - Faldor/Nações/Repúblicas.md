@@ -1,0 +1,1 @@
+Uma **República** é uma forma de governo onde o poder emana do povo, que elege seus representantes para governar em nome do bem comum, com um chefe de Estado (como um Lider) eleito por tempo determinado

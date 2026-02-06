@@ -1,0 +1,5 @@
+Um dos continentes de [[Faldor]] e é localizado ao Centro do mundo. É um lugar conhecido pelos grandes desertos que ocupam boa parte do continente. Mesmo sendo um deserto, isso não impede de ser um continente com belas paisagens e grandes Cidades. Seu povo aprendeu a sobreviver e usar os desertos para se desenvolver, assim criando suas próprias tecnologias para fazer a vida no deserto ser tão fácil quanto a vida nas florestas ou nas montanhas. Mas além de desertos, [[Désertaride]] também possui suas florestas/vegetações, mesmo que sejam pequenas e raras, elas ainda existem criando as Savanas mais conhecidas do mundo. Um local muito conhecido de [[Désertaride]] é a sua capital [[Nova Chinon]] que mesmo estando no meio de um deserto, ostenta agua, criando rios e lagos artificiais dentro e fora da cidade, fazendo uma visão única dentro do deserto.
+
+# Nações do Continente
+- [[Soleilnoir]]
+- [[Murancien]]

@@ -1,0 +1,1 @@
+Divindade do Domínio da Trapaça, ser que ama fazer jogos, mas que sempre vai estar trapaceando para vencer. Se alguém estiver trapaceando em [[Faldor]], pode ter certeza que [[Vérisse]] estará assistindo.

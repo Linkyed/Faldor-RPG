@@ -1,0 +1,1 @@
+Divindade do Domínio da Natureza, ser que cuida das plantas de nos animais. Enquanto plantas e animais estão vivos em [[Faldor]], [[Roséline]] estará os observando e cuidando sempre que possível.

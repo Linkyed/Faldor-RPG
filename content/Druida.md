@@ -1,0 +1,4 @@
+Druidas pertencem a ordens antigas que invocam as forças da natureza. Utilizando a magia dos animais, plantas e dos quatro elementos, os Druidas curam, multimorfam-se em animais e controlam a destruição elemental. Reverenciando a natureza acima de tudo, Druidas obtêm sua magia da natureza, de uma divindade da natureza ou de ambos, e tipicamente se unem a outros Druidas para realizar ritos que marcam a passagem das estações e outros ciclos naturais. Druidas se preocupam com o delicado equilíbrio ecológico que sustenta a vida animal e vegetal e com a necessidade de as pessoas viverem em harmonia com a natureza. Muitas vezes, os Druidas protegem locais sagrados ou vigiam regiões de natureza intocada, mas quando um grande perigo surge, eles assumem um papel mais ativo como aventureiros que combatem a ameaça.
+
+# Informações Gerais da Classe
+As informações gerais da classe são encontrada no LDJ 2024, não houve nenhuma alteração para a campanha em [[Faldor]].

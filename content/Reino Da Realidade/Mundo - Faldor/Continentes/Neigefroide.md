@@ -1,0 +1,5 @@
+Um dos continentes de [[Faldor]] e é localizado ao Leste do mundo. É um lugar conhecido pelo frio, e a neve que cobre quase todas as terras locais. O clima frio em [[Neigefroide]] pode ser tão forte em algumas partes que sair sem a proteção correta pode ser uma sentença de morte dependendo da época do ano. Porem alguns lugares mais ao Oeste e ao Sul do continente conseguem ter climas mais agradáveis para [[Humanoide|Humanoides]], e até por isso alguns biomas diferentes de Tundras, Taigas e Desertos Gelados conseguem ter espaço em [[Neigefroide]]. Ao norte do continente nos temos uma das paisagem mais incríveis de toda [[Faldor]], as [[Montanhas Separadas]], mais um dos resquícios/registros deixados pelos [[Dragões Ancestrais]], onde grandes montanhas possuem cortes de tamanhos inimagináveis criando uma cordilheiras cheia de "vales" dentro das próprias montanhas.
+# Nações do Continente
+- [[Montsombre]]
+- [[Trônevoilé]]
+- [[Brumenoire]]

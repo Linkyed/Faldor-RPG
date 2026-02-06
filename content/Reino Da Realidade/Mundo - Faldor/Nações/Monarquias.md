@@ -1,0 +1,1 @@
+Monarquia é uma forma de governo onde o chefe de Estado é um monarca (rei, rainha, imperador) que geralmente assume o poder de forma **hereditária** e o mantém por toda a vida, sendo a sucessão passada para seus descendentes.

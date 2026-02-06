@@ -1,0 +1,4 @@
+Ladinos confiam na astúcia, furtividade e nas fraquezas de seus inimigos para obter vantagem. Eles têm um dom especial para resolver praticamente qualquer problema, com alguns aprendendo truques mágicos para complementar suas habilidades. Muitos se concentram em furtividade e enganação, enquanto outros refinam perícias úteis em masmorras, como escalar, desarmar armadilhas e abrir fechaduras. Em combate, os Ladinos priorizam ataques sutis em vez da força bruta, optando por golpes precisos em vez de desgastar o oponente com uma série de ataques. Alguns começaram como criminosos, enquanto outros utilizaram sua astúcia para combater o crime. Independentemente de sua relação com a lei, nenhum criminoso comum ou oficial pode igualar o brilho sutil dos maiores Ladinos.
+
+# Informações Gerais da Classe
+As informações gerais da classe são encontrada no LDJ 2024, não houve nenhuma alteração para a campanha em [[Faldor]].

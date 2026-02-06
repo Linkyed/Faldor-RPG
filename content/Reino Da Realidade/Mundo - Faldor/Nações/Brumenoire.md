@@ -1,0 +1,1 @@
+É uma das [[Nação|Nações]] de [[Faldor]], conhecido por ser a nação mais desenvolvida tecnologicamente, suas cidades emprisionam qualquer estrangeiro que visita-las. É uma [[Monarquia]] governada pela Rainha [[Roxane Brugière]] e pelo Rei [[Bastien Niel]]

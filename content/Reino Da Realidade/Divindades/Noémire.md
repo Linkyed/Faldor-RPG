@@ -1,0 +1,1 @@
+Divindade do Domínio da Loucura, ser que ama e faz tudo pelo caos. Assim que algo foge da ordem em [[Faldor]], [[Noémire]] fara o que puder para aumentar o caos, até que a ordem original nunca mais possa ser retomada.

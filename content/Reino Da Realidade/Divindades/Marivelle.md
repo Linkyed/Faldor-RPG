@@ -1,0 +1,1 @@
+Divindade do Domínio da Vida, ser responsável por conceder a vida a humanos, animais e plantas no momento de seus nascimentos. Cada vez que um novo ser nasce em [[Faldor]], [[Marivelle]] estará por perto admirando o fruto de sua existência.

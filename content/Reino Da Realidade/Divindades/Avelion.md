@@ -1,0 +1,1 @@
+Divindade do Domínio do Conhecimento, ser que ama a sabedoria e possui o conhecimento de tudo do mundo. Toda vez que algum ser gera ou adquire conhecimento, [[Avelion]] fica contente onde quer que ele esteja.

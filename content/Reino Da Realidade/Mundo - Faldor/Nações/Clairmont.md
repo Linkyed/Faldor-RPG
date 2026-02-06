@@ -1,0 +1,1 @@
+É uma das [[Nação|Nações]] de [[Faldor]], conhecida por ser uma ilha muito bonita com florestas e praias de encantas os olhos. É uma [[Monarquia]] governada pelo Rei [[Henri Demaret]] e sua família

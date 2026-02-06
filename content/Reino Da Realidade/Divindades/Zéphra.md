@@ -1,0 +1,1 @@
+Divindade do Domínio da Tempestade, ser que cria e dissipa as tempestades de [[Faldor]]. Sempre que é necessário [[Zéphra]] aparece para criar ou destruir uma tempestade, seja para ajudar ou para criar problemas.

@@ -1,0 +1,1 @@
+Divindade do Domínio do Crepúsculo, ser que dita e controla a transição do dia para noite e da noite para o dia em [[Faldor]]. Em todo anoitecer e em todo amanhecer [[Orivelle]] está presente fazendo com que tudo aconteça naturalmente.

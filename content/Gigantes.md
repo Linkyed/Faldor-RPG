@@ -1,0 +1,1 @@
+[[Espécie]] de [[Humanoide]] que existiu durante a [[Era dos Dragões]], possuem mais de 4 metros e altura e tinham uma força e resistência formidável. Sua existência foi descoberta após a descoberta das [[Tumbas dos Gigantes]] ao sul de [[Soleilnoir]]
