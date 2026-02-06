@@ -2,3 +2,5 @@ Invocando magia através de música, dança e versos, os Bardos são peritos em 
 
 # Informações Gerais da Classe
 As informações gerais da classe são encontrada no LDJ 2024, não houve nenhuma alteração para a campanha em [[Faldor]].
+
+Olha aqui pra ver se atualiza
