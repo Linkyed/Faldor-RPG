@@ -12,3 +12,8 @@
 - [[Poções de Cura]]
 - [[Teste de Morte]]
 
+#### Comandos
+Ignorem essa parte, é só alguns comandos que eu uso para atualizar o site e fazer algumas outras coisas:
+
+- npx quartz sync (update)
+
