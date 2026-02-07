@@ -1,10 +1,10 @@
-#### Mundo
+# Mundo
 [[Faldor]]
 
-#### Espécies, Classes e Antecedentes
+# Espécies, Classes e Antecedentes
 [[Espécies, Classes e Antecedentes]]
 
-#### Homebrews
+# Homebrews
 - [[Nível de Exaustão]]
 - [[Sistema de Carga]]
 - [[Descansos]]
@@ -12,7 +12,7 @@
 - [[Poções de Cura]]
 - [[Teste de Morte]]
 
-#### Comandos
+# Comandos
 Ignorem essa parte, é só alguns comandos que eu uso para atualizar o site e fazer algumas outras coisas:
 
 - npx quartz sync (update)

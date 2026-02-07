@@ -67,9 +67,9 @@ E assim por diante, inclusive se vocês tiverem algumas ideias do que achariam l
 
 # Personagens
 Agora que já tamo chegando no final, eu quero falar sobre os personagens de vocês. Como vocês já sabem a gente não vai criar os personagens na sessão de hoje, isso vai ficar pra sessão presencial de semana que vem mas é importante já conversa um pouco sobre isso porque, durante essa uma semana, eu preciso que vocês já tenham ideias de personagens pra gente ter uma boa base pra próxima sessão. O que eu falo com ideias de personagens não é ter algo completo, é literalmente ideias bem vagas, tipo "hmmm eu quero jogar com um Humano Bardo que usa da dança para contar suas historias", "hmmm eu quero jogar com um elfo mago que nasceu numa família rica mas foi sequestrado por um antigo mago que o ensinou magia" e assim por diante, essas ideias é realmente só uma base para a gente poder explorar na próxima sessão, não criem nada muito complexo porque a criação de personagem vai acontecer totalmente na próxima sessão.
-Por agora eu só vou mostrar pra vocês as opções que vocês tem para terem ideias de personagens, então vou falar sobre classes, espécies e origens(backgrounds). [[Espécies, Classes e Antecedentes]].
+Por agora eu só vou mostrar pra vocês as opções que vocês tem para terem ideias de personagens, então vou falar sobre classes, espécies e antecedentes(backgrounds). [[Espécies, Classes e Antecedentes]].
 
-Vou ta mandando pra vocês um documento contendo todos os links para os PDFs das classes e das raças que foram modificadas pra vocês olharem e terem ideias do que parece ser interessante/divertido para vocês. Então leiam algumas classes, espécies e origens que acharem interessantes e montem uma ideia básica de um personagem usando isso, tenham pelo menos 2 a 3 ideias formadas pra gente poder explorar semana que vem.
+Então leiam algumas classes, espécies e origens que acharem interessantes e montem uma ideia básica de um personagem usando isso, tenham pelo menos 2 a 3 ideias formadas pra gente poder explorar semana que vem.
 
 # obs
 
