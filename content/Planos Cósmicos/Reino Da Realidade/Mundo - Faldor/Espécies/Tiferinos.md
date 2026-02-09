@@ -13,13 +13,12 @@ Tiférinos são uma [[Espécie]] de [[Faldor]] que parecem ser descendentes dire
 - **Deslocamento:** 9 metros
 - **Visão no Escuro.** Você tem Visão no Escuro com um alcance de 18 metros.
 - **Legado Ínfero.** Você é o portador de um legado que lhe confere poderes sobrenaturais. Escolha um legado da tabela Legados Ínferos. Você adquire o benefício de nível 1 do legado escolhido. Ao atingir os níveis de personagem 3 e 5, você aprende magias de círculo superior, conforme indicado na tabela. Essas magias estão sempre preparadas e podem ser conjuradas uma vez sem usar um espaço de magia, sendo restauradas quando completa um Descanso Longo. Além disso, você pode conjurá-las utilizando qualquer espaço de magia que possua do círculo correspondente. Atributos como Inteligência, Sabedoria ou Carisma servem como seu atributo de conjuração para essas magias (escolha um atributo ao selecionar o legado).
-- **Presença Sobrenatural.** Você conhece o truque Taumaturgia. Ao conjurar com este traço, a magia usa o mesmo atributo de conjuração que você usa para sua Característica Legado Ínfero.
 
 # Legado Ínfero
 
 ### Abissal
 - Você tem Resistência a dano Venenoso.
-- Você também conhece o truque *Golpe Venenoso*
+- Você também conhece o *Golpe Venenoso*
 	- No Nivel 3 você ganha *(A ser desenvolvido)*
 	- No Nivel 5 você ganha *(A ser desenvolvido)*
 
@@ -31,7 +30,7 @@ Tiférinos são uma [[Espécie]] de [[Faldor]] que parecem ser descendentes dire
 
 ### Infernal
 - Você tem Resistência a dano Ígneo.
-- Você também conhece o truque *Golpe Ardente.
+- Você também conhece o *Golpe Ardente.
 	- No Nivel 3 você ganha *(A ser desenvolvido)*
 	- No Nível 5 você ganha *(A ser desenvolvido)*
 

@@ -23,8 +23,9 @@ Eu não tenho como dizer o tanto de tempo de Arcos vão durar mas os Mini Arcos 
 # Mecânicas e Ideias Novas
 Agora a gente vai falar sobre algumas mecânicas novas que podemos abordar nessa aventura, como vocês não tem muito experiencia como RPG, eu vou ir comentando sobre mecânicas que a gente pode adicionar e alguma que vão ser adicionadas, partir dai agente conversa se quer explorar isso na aventura ou não okay?
 
-- Sistema de crafting, buscar matérias e criar seus próprios itens
-- Sistema de base, uma casa/local que pertence aos players
+- Sistema de crafting, buscar matérias e criar seus próprios itens (adicionor)
+- Sistema de base, uma casa/local que pertence aos players (adicionar)
+- Sistema de feridas (adicionar)
 
 Homebrew:
 - Modificação nos [[Nível de Exaustão]]

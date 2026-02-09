@@ -2,7 +2,7 @@ Golias são uma [[Espécie]] de [[Faldor]], que se destacam pela altura, são de
 
 # Traços de Golias
 - **Tipo de Criatura:** Humanoide
-- **Tamanho:** Médio (cerca de 2,10-2,40 metros de altura)
+- **Tamanho:** Médio (cerca de 2,10-2,50 metros de altura)
 - **Deslocamento:** 10,5 metros
 - **Ancestralidade Gigante.** Você é descendente de Gigantes. Escolha um dos seguintes benefícios — um benefício sobrenatural de sua ancestralidade; você pode usar o benefício escolhido um número de vezes igual ao seu Bônus de Proficiência, e você restaura todos os usos gastos quando completa um Descanso Longo:
 	- **Arrepio do Gelo (Gigante do Gelo).** Ao atingir um alvo com uma jogada de ataque e causar dano a ele, você também pode infligir 1d6 pontos de dano Gélido a esse alvo e reduzir o Deslocamento dele em 3 metros até o início do seu próximo turno.
